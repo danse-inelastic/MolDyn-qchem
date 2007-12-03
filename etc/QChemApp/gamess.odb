@@ -1,0 +1,4 @@
+from gamess.Gamess import Gamess  
+
+def quantumEngine():
+	return Gamess()

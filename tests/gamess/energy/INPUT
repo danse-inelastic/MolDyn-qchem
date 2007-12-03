@@ -1,0 +1,10 @@
+ $CONTRL coord=unique icut=11 inttyp=hondo maxit=50 mplevl=0 mult=1 
+nprint=9 qmttol=1.0E-6 runtyp=energy scftyp=RHF $END
+ $SCF damp=.F. diis=.T. dirscf=.T. extrap=.T. nconv=1 rstrct=.F. 
+shift=.F. soscf=.F. $END
+ $SYSTEM memory=70000000 timlim=1000 $END
+ $MP2 $END
+ $DFT $END
+ $GUESS guess=huckel $END
+ $STATPT hess=guess opttol=1 $END
+ $BASIS gbasis=AM1 $END

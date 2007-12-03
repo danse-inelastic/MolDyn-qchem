@@ -1,0 +1,4 @@
+jig_Gamess.py (or something like this)
+GamessProp.py
+GamessPropDialog.py
+SimJob.py

@@ -1,0 +1,4 @@
+from fireball.Fireball import Fireball  
+
+def quantumEngine():
+	return Fireball()
