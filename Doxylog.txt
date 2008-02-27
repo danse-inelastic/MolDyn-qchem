@@ -1,1 +1,0 @@
-Notice: Output directory `docs' does not exist. I have created it for you.
