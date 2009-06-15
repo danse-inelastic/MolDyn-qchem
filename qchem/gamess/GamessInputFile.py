@@ -95,7 +95,7 @@ dfttyp_itemsGamess=['SLATER (E)','BECKE (E)','GILL (E)','PBE (E)','VWN (C)', \
 
 # DFTTYP functions for PC GAMESS. These are different for GAMESS.
 # The DFTTYP keyword values are the same without the '(x)' text.                
-dfttyp_items = ['From Fireball Fdata','SLATER (E)','B88 (E)','GILL96 (E)','XPBE96 (E)','LYP (C)', \
+dfttyp_items = ['SLATER (E)','B88 (E)','GILL96 (E)','XPBE96 (E)','LYP (C)', \
     'VWN1RPA (C)','VWN5 (C)','PW91LDA (C)','CPBE96 (C)','CPW91 (C)', \
     'SLYP (E+C)','BLYP (E+C)','GLYP (E+C)','SVWN1RPA (E+C)', \
     'BVWN1RPA (E+C)','VWN5 (E+C)','BVWN5 (E+C)','PBE96 (E+C)', \
